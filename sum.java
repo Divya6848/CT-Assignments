@@ -1,5 +1,5 @@
 import java.util.*;
-public class sumandaverage {
+public class sum {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 				System.out.println("input the 5 number:");
